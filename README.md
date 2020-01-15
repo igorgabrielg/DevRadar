@@ -4,12 +4,20 @@
 levando as aplicações a outro nível.
 
 **Tecnologias:**
+
 *  Node.JS
 *  ReactJS
 *  React Native
 *  MongoDB
 
-**O que foi feito no evento?**
-Na décima edição do OmniStack foi desenvolvido uma API RESTFULL para Web e
+**O que foi desenvolvido no evento?**
+
+Na décima edição do OmniStack foi desenvolvido uma API RESTFUL para Web e
 Mobile que permiti criar conta, sicronizar dados com github, e fazer buscas de
 desenvolvedores por geolocalização e tecnologias.
+
+**O que este evento acrescentou em meu conhecimento?**
+
+*  Consolidou o conhecimento de arquitetura RESTFUL
+*  Ensinou o uso do MongoDB para Geolocalização
+*  Demostrou boas praticas
