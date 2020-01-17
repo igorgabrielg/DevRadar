@@ -20,4 +20,4 @@ desenvolvedores por geolocalização e tecnologias.
 
 *  Consolidou o conhecimento de arquitetura RESTFUL
 *  Ensinou o uso do MongoDB para Geolocalização
-*  Demostrou boas praticas
+*  Demostrou boas praticas como DRY, sintaxe curta e uso de desestruturação.
