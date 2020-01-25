@@ -158,8 +158,8 @@ const styles = StyleSheet.create({
 
   searchForm: {
     position: 'absolute',
-    top: 20,
-    left: 20,
+    top: 5,
+    left: 50,
     right: 20,
     zIndex: 5,
     flexDirection: 'row',
@@ -185,7 +185,7 @@ const styles = StyleSheet.create({
   loadButton: {
     width: 50,
     height: 50,
-    backgroundColor: '#8E4Dff',
+    backgroundColor: '#FF4444',
     borderRadius: 25,
     justifyContent: 'center',
     alignItems: 'center',
