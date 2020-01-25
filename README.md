@@ -3,21 +3,25 @@
 </h1>
 
 <p align="center">
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#api">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#aprendizado">Aprendizado</a>
 </p>
 
+<div id="projeto">
+</dev>
 <br>
 
-
-
-## Tecnologias
+## Projeto
+O DevRadar é um projeto que visa conectar desenvolvedores que procuram ajuda, nele é possivel fazer consulta por tecnologia e localização para achar um dev proximo e conhecer seu perfil no GitHub assim como seus projetos.
 
 <div id="tecnologias">
 </dev>
+
+## Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
@@ -31,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </dev>
 API RESTFUL para Web e Mobile que permiti criar conta, sicronizar dados com github, e fazer buscas por filtro.
 
+<br>
 
 ## Como contribuir
 <div id="contribuir">
