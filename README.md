@@ -4,21 +4,29 @@
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#api">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#aprendizado">Aprendizado</a>
 </p>
 
-<div id="projeto">
-</dev>
 <br>
 
 ## Projeto
 O DevRadar é um projeto que visa conectar desenvolvedores que procuram ajuda, nele é possivel fazer consulta por tecnologia e localização para achar um dev proximo e conhecer seu perfil no GitHub assim como seus projetos.
 
-<div id="tecnologias">
-</dev>
+## Imagens
+
+**Web**
+
+<img src="gitlab/web.PNG" width="720px" >
+<br>
+
+**Mobile**
+
+<img src="gitlab/DevRadar.jpeg" width="240px" >
+<img src="gitlab/github.jpeg" width="240px" >
 
 ## Tecnologias
 
@@ -31,15 +39,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [MongoDB](https://mongodb.com/)
 
 ## API
-<div id="api">
-</dev>
 API RESTFUL para Web e Mobile que permiti criar conta, sicronizar dados com github, e fazer buscas por filtro.
 
-<br>
-
 ## Como contribuir
-<div id="contribuir">
-</dev>
+
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
@@ -48,10 +51,6 @@ API RESTFUL para Web e Mobile que permiti criar conta, sicronizar dados com gith
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## Aprendizado
-
-
-<div id="aprendizado">
-</dev>
 
 *  Consolidou o conhecimento de arquitetura RESTFUL
 *  Ensinou o uso do MongoDB para Geolocalização
