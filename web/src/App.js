@@ -10,7 +10,15 @@ import './Main.css'
 import DevForm from './components/DevForm';
 import DevItem from './components/DevItem';
 
+// 3 Conceitos fundamentais do React
+//
+// Componente -> É uma função que retorna um conteudo HTML, CSS ou ate mesmo js como ação de sumir um botão. DRY
+// Dicas: Vai usar sempre que repetir codigo DRY...; Sempre começa com letra maiuscula; 1 omponente por arquivo;
+// Propiedade -> É um argumento passado pelo xml, em cada momento pode agir de uma forma. Exemplo um post com texto
+// Estado     -> É uma informação mantida pelo componente
+// React possui o conceito de imultabilidade, o que nunca vai mudar um valor e sim criar um valor apartir do anterior
 
+// App é uma função que retorna o HTML (JSX) JavaScript + XML
 function App() {
   const [devs, setDevs] = useState([]);
 
